@@ -1,6 +1,6 @@
-* 🤖 Founder @ Codeverse 
-* 🔭 Conducting research into novel Multi-Agent systems ([Duality.ai](https://github.com/ProjectGleb/Duality), etc.) 
-* 💡 Experimenting with low level ML research ([Speech](https://github.com/ProjectGleb/BCI_Thought2Speech), [CV](https://github.com/ProjectGleb/Eye_Controlled_Desktop), [NLP](https://github.com/ProjectGleb/Real_Time_Dubbing), etc.)
+* 🧠 Founder @ Duality 
+* 🔭 Conducting brain uploading research  ([Duality.ai](https://github.com/ProjectGleb/Duality), etc.) 
+* 💡 Experimenting with AI interpretability ([Speech](https://github.com/ProjectGleb/BCI_Thought2Speech), [CV](https://github.com/ProjectGleb/Eye_Controlled_Desktop), [NLP](https://github.com/ProjectGleb/Real_Time_Dubbing), etc.)
 
 ### Skills
 <p align="left">
